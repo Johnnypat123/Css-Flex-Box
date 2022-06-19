@@ -1,0 +1,84 @@
+
+
+body {
+    background: hsl(0, 0%, 95%);
+    font-size: 15px;
+    margin: 20%;
+    width: 1440px;
+    margin-top: 30px;
+    margin-left: 60px;
+    
+    
+
+}
+
+.card {
+    display: flex;
+    margin: 16%;
+    margin-left: 16%;
+    height: 400px;
+    
+    
+    
+
+}
+
+h1 {
+    color: hsl(0, 0%, 95%);
+    font-family: 'lexend deca', sans-serif;
+    font-weight: 700;
+    height: 34px;
+   
+    
+    
+}
+
+.a {
+    background-color: hsl(31, 77%, 52%);
+    padding: 40px;
+    
+}
+
+.b {
+    background-color: hsl(184, 100%, 22%);
+    padding: 40px;
+    
+}
+
+.c {
+    background-color: hsl(179, 100%, 13%);
+    padding: 40px;
+  
+}
+
+p {
+    color: hsla(0, 0%, 100%, 0.75);
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: 400;
+    height: 145px;
+    
+}
+
+button {
+    background-color: hsl(0, 0%, 95%);
+    border: 3px;
+    padding: 10px;
+    border-radius: 20px;
+    width: 118px;
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: 700;
+    
+
+}
+
+.a-btn {
+    color: hsl(31, 77%, 52%);
+}
+
+.b-btn {
+    color: hsl(184, 100%, 22%);
+}
+
+.c-btn {
+    color: hsl(179, 100%, 13%);
+}
